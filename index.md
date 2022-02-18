@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mockup API
 
 1.[/users](https://somnathtiwari.github.io/mockup-api/api/users.json)
 
