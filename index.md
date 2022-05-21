@@ -46,8 +46,10 @@
     ]
     
 2.[/quote](https://somnathtiwari.github.io/mockup-api/api/quote.json)
-        
-      {
-        "quote":"Commitment leads to action. Action brings your dream closer.",
-        "author":"Marcia Wieder"
-     },    
+    
+    [
+         {
+            "quote":"Commitment leads to action. Action brings your dream closer.",
+            "author":"Marcia Wieder"
+         },
+    ]
