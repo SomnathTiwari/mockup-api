@@ -42,3 +42,10 @@
     "phone": "1-570-236-7033"
     
     },
+    
+2.[/quote](https://somnathtiwari.github.io/mockup-api/api/quote.json)
+        
+      {
+        "quote":"Commitment leads to action. Action brings your dream closer.",
+        "author":"Marcia Wieder"
+     },    
